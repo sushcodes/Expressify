@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340581113010",
+    "project_id": "expressify-66aaf",
+    "storage_bucket": "expressify-66aaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340581113010:android:c3cb452331dccd7fea3dab",
+        "android_client_info": {
+          "package_name": "com.example.expressify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340581113010-8iou296vr3mqifc1tjld2rkn5n0tnjqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8l4p6NAXXeBAlsegEf-XPGW_zK5hfPU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340581113010-8iou296vr3mqifc1tjld2rkn5n0tnjqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

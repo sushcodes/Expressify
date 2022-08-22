@@ -52,12 +52,12 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                 Hero(
                   tag: 'logo',
                   child: Container(
-                    child: Image.asset('images/PROJECT.png'),
+                    child: Image.asset('images/document.png'),
                     height: 120.0,
                   ),
                 ),
                 TypewriterAnimatedTextKit(
-                  text: ['Expressify'],
+                  text: ['EXPRESSIFY'],
                   textStyle: TextStyle(
                     fontSize: 45.0,
                     fontWeight: FontWeight.w900,
